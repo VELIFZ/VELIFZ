@@ -30,6 +30,6 @@ You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/elif-erik
 
 ## LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/VELIFZ)](https://leetcode.com/u/VELIFZ/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/VELIFZ?theme=dark)](https://leetcode.com/u/VELIFZ/)
 
 ---
