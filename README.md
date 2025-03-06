@@ -16,12 +16,16 @@ Currently learning full-stack development—feel free to check out my work below
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </p>
+## Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VELIFZ&layout=compact" height="150" alt="Top Languages" />
+</p>
 
 ## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=VELIFZ&show_icons=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VELIFZ&layout=compact" height="150" alt="Top Languages" />
 </p>
 
 ## Codewars
