@@ -1,8 +1,7 @@
 <div align="center">
 # Hey, I'm Elif
 
-Currently learning full-stack development—feel free to check out my work below.  
-You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/elif-erik/)! 
+Currently learning full-stack development—feel free to check out my work below.
 
 ## Tech & Tools
 
