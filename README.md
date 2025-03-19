@@ -43,4 +43,9 @@ Currently learning full-stack development—feel free to check out my work below
 [![LeetCode Stats](https://leetcard.jacoblin.cool/VELIFZ?theme=dark)](https://leetcode.com/u/VELIFZ/)
 
 ---
+  
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=VELIFZ&color=grey" height="15" />
+</p>
+
 </div>
